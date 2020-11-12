@@ -8,7 +8,7 @@
         https://www.linkedin.com/in/george-soderholm-05776947/                                    
         georgesoderholm@gmail.com
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I have three sisters and no brother... 
+- ⚡ Fun fact: ... I have three sisters and no brothers... 
 <!--
 **GeorgieGirl24/GeorgieGirl24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
