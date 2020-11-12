@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on ... interesting app
 - 🤔 I’m looking for help with ... ActiveRecordRelations practive
 - 💬 Ask me about ... what I do outside of coding for 12 hours a day 🤣
-- 📫 How to reach me: ... https://www.linkedin.com/in/george-soderholm-05776947/            
+- 📫 How to reach me: ... https://www.linkedin.com/in/george-soderholm-05776947/                                    
                           georgesoderholm@gmail.com
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I have three sisters and no brother... 
