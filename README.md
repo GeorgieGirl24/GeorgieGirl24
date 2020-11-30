@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... finishing Mod2 at Turing School of Software Development & Design
+- 🔭 I’m currently working on ... Mod3 at Turing School of Software Development & Design
 - 🌱 I’m currently learning ... all about Ruby on Rails
 - 👯 I’m looking to collaborate on ... interesting app
 - 🤔 I’m looking for help with ... ActiveRecordRelations practive
