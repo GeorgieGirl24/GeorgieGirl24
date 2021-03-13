@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... Mod3 at Turing School of Software Development & Design
-- 🌱 I’m currently learning ... all about Ruby on Rails
-- 👯 I’m looking to collaborate on ... interesting app
+- 🔭 I’m currently working on ... Mod5 at Turing School of Software Development & Design
+- 🌱 I’m currently learning ... all about Ruby on Rails, exploring Python and figuring out Crystal
+- 👯 I’m looking to collaborate on ... interesting apps
 - 🤔 I’m looking for help with ... ActiveRecordRelations practive
 - 💬 Ask me about ... what I do outside of coding for 12 hours a day 🤣
 - 📫 How to reach me: ... 
